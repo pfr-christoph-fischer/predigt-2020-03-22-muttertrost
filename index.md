@@ -9,7 +9,7 @@ summary: "Was für eine Zeit, in der wir leben! Die Realität hat uns förmlich 
 source: pfarrplaner
 source_id: "3@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Muttertrost\"."
-audio: audio.mp3
+audio: muttertrost.mp3
 audio_duration: "13:30"
 legacy_id: 3
 events:
